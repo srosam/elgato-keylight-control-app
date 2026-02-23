@@ -1,6 +1,6 @@
 # Studio Light Controller
 
-An Android app to discover and control studio panel lights on your local network via mDNS.
+A third-party Android app to control **Elgato Key Light** devices from your phone. Discover and manage your Key Lights on your local network without needing the official Control Center app.
 
 ## Features
 
