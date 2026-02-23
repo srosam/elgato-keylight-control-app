@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Light bulb icon -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,24
+            C42,24 32,34 32,46
+            C32,54 36,60 42,64
+            L42,72
+            C42,74 44,76 46,76
+            L62,76
+            C64,76 66,74 66,72
+            L66,64
+            C72,60 76,54 76,46
+            C76,34 66,24 54,24
+            Z"/>
+    <!-- Light rays -->
+    <path
+        android:fillColor="#FFD700"
+        android:strokeWidth="2"
+        android:pathData="M54,14 L54,20 M30,46 L24,46 M78,46 L84,46 M36,28 L32,24 M72,28 L76,24"/>
+    <!-- Base -->
+    <path
+        android:fillColor="#CCCCCC"
+        android:pathData="M46,76 L46,82 C46,84 48,86 50,86 L58,86 C60,86 62,84 62,82 L62,76 Z"/>
+</vector>

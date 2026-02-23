@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studio Light Controller</string>
+    <string name="widget_description">Toggle your studio light on/off from the home screen</string>
+    <string name="widget_select_light">Select a light</string>
+    <string name="widget_no_lights">No lights saved. Open the app first to discover lights.</string>
+</resources>
